@@ -53,3 +53,12 @@ Columns:
    - SQL Query Runner  
    - Visualizations  
    - Machine Learning predictions
+
+# Key Insights
+   Delhi, Bengaluru, and Chennai recorded the highest accident counts.
+   Traffic Control & Road Features were leading causes of accidents.
+   Random Forest outperformed Linear Regression with lower MAE and higher R².
+
+# Future Enhancements
+   Add time-series forecasting for accident trends
+   Include geospatial analysis with maps
