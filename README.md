@@ -61,4 +61,4 @@ Columns:
 
 # Future Enhancements
    Add time-series forecasting for accident trends
-   Include geospatial analysis with maps
+   Include geospatial analysis with maps.
